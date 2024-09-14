@@ -74,7 +74,7 @@ Here are a few projects that highlight my skills and expertise:
 
 I’d love to connect with you and explore opportunities to collaborate. You can reach me through:
 
-- **Email**: [abubakarmuhammadsad@gmail.com](mailto:abubakarmuhammadsad@gmail.com)
+- **Email**: [wimlacompany@gmail.com](mailto:wimlacompany@gmail.com)
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
 
 
