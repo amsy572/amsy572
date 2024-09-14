@@ -82,4 +82,3 @@ Thank you for taking the time to visit my GitHub profile. Let’s create somethi
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
