@@ -74,9 +74,9 @@ Here are a few projects that highlight my skills and expertise:
 
 I’d love to connect with you and explore opportunities to collaborate. You can reach me through:
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **Email**: [abubakarmuhammadsad@gmail.com](mailto:abubakarmuhammadsad@gmail.com)
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
-- **Twitter**: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+
 
 Thank you for taking the time to visit my GitHub profile. Let’s create something amazing together!
 
