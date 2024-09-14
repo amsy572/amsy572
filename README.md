@@ -1,14 +1,14 @@
 # 👋 Hello! I'm [Your Name]
 
-![Welcome GIF](https://media.giphy.com/media/3o6ozsEAC5B0XGNCt6/giphy.gif)
+![Welcome GIF](https://i.pinimg.com/originals/6e/a8/c6/6ea8c68dfa924bc2e6a9abe3e473087a.gif)
 
 ## About Me
 
-Hello! I'm [Your Name], a driven and multifaceted professional with a deep passion for technology and innovation. As a mobile app developer with expertise in **Flutter** and **Android Java**, I specialize in creating multitask applications that are both functional and visually compelling. My focus is on delivering high-quality, scalable solutions that enhance user experiences.
+Hello! I'm Abuakar Muhammad Sadi, a driven and multifaceted professional with a deep passion for technology and innovation. As a mobile app developer with expertise in **Flutter** and **Android Java**, I specialize in creating multitask applications that are both functional and visually compelling. My focus is on delivering high-quality, scalable solutions that enhance user experiences.
 
-In addition to my mobile development skills, I am well-versed in **backend development** with a strong command of **Python**, **Flask**, **Firebase**, **SQL**, **SQLite**, and **PHP**. This diverse skill set enables me to build robust, secure, and efficient systems across various platforms.
+In addition to my mobile development skills, I am well-versed in **backend development** with a strong command of **Python**, **Firebase**, **SQL**, **SQLite**, and **PHP**. This diverse skill set enables me to build robust, secure, and efficient systems across various platforms.
 
-I am also the CEO of **Wimla Company**, where I leverage my entrepreneurial spirit to drive innovation and lead a talented team towards achieving our business goals. As a freelancer, I take on exciting projects that allow me to apply my skills and solve real-world problems. My background in **cybersecurity** and **networking**, supported by certifications as an **Ethical Hacker** and **Cisco Network Associate (CCNA)**, ensures that my solutions are both secure and reliable.
+I am also the CEO of a Software Company **Wimla Company**, where I leverage my entrepreneurial spirit to drive innovation and lead a talented team towards achieving our business goals. As a freelancer, I take on exciting projects that allow me to apply my skills and solve real-world problems. My background in **cybersecurity** and **networking**, supported by certifications as an **Ethical Hacker** and **Cisco Network Associate (CCNA)**, ensures that my solutions are both secure and reliable.
 
 ### 🌟 What Sets Me Apart
 
