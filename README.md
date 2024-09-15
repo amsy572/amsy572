@@ -75,7 +75,7 @@ Here are a few projects that highlight my skills and expertise:
 I’d love to connect with you and explore opportunities to collaborate. You can reach me through:
 
 - **Email**: [wimlacompany@gmail.com](mailto:wimlacompany@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
+- **LinkedIn**: [Abubakar Muhammad Sadi](https://www.linkedin.com/in/Abubakar Muhammad Sadi/)
 
 
 Thank you for taking the time to visit my GitHub profile. Let’s create something amazing together!
